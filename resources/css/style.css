@@ -1,8 +1,9 @@
 h1 {
     font-size: 50px;
+    font-weight: normal;
     }
 
-    * {
+  * {
         color: white ;
         font-family: Verdana ;
         text-align: center ;
@@ -11,4 +12,22 @@ h1 {
 
 h2 {
   font-size: 42px ;
+  font-weight: 300;
+}
+
+
+#aquatext {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#graytext {
+   font-size: 21px;
+   color: gray;
+}
+
+#graytext2 {
+   font-size: 21px;
+   color: gray;
+   text-align: right;
 }
